@@ -7,8 +7,8 @@ body {
     background-color: white;
 
     /* Sizes */
-    height: 500px;
-    width: 320px;
+    height: 31.25rem;
+    width: 20rem;
 
     /* Make the width and height exactly like specify without effect from margin and padding */
     box-sizing: border-box; 
@@ -19,8 +19,8 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    padding: 16px;
-    border-radius: 20px;
+    padding: 1rem;
+    border-radius: 1.25rem;
 
     display: flex;
     flex-direction: column;
@@ -31,36 +31,36 @@ body {
 
 .qr-image {
     /* Sizes */
-    width: 288px;
-    height: 288px;
+    width: 18rem;
+    height: 18rem;
 
-    border-radius: 20px;
-    margin-bottom: 24px;
+    border-radius: 1.25rem;
+    margin-bottom: 1.5rem;
 }
 
 .card-title {
     /* Font */
-    font-family: "Outfit";
+    font-family: "Outfit", Arial;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 1.375rem;
 
     /* Color */
     color: #1F314F;
 
     /* Sizes */
-    width: 256px;
-    padding-bottom: 16px;
+    width: 16rem;
+    padding-bottom: 1rem;
 
     text-align: center;
 }
 
 .card-content {
     /* Sizes */
-    width: 256px;
+    width: 16rem;
 
     /* Font */
-    font-size: 15px;
-    font-family: "Outfit";
+    font-size: 0.9375rem;
+    font-family: "Outfit", Arial;
     font-weight: 400;
 
     /* Color */
