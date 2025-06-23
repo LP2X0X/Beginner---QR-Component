@@ -40,7 +40,7 @@ body {
 
 .card-title {
     /* Font */
-    font-family: "Outfit", Arial;
+    font-family: "Outfit", Times;
     font-weight: 700;
     font-size: 1.375rem;
 
@@ -60,7 +60,7 @@ body {
 
     /* Font */
     font-size: 0.9375rem;
-    font-family: "Outfit", Arial;
+    font-family: "Outfit", Times;
     font-weight: 400;
 
     /* Color */
